@@ -5,7 +5,7 @@ Unsurprisingly, the role of a data scientist primarily involves exploring and an
 
 After decades of open-source development, Python provides extensive functionality with powerful statistical and numerical libraries:
 
--> NumPy and Pandas simplify analyzing and manipulating data
--> Matplotlib provides attractive data visualizations
--> Scikit-learn offers simple and effective predictive data analysis
--> TensorFlow and PyTorch supply machine learning and deep learning capabilities
+<ol>NumPy and Pandas simplify analyzing and manipulating data</ol>
+<ol>Matplotlib provides attractive data visualizations</ol>
+<ol>Scikit-learn offers simple and effective predictive data analysis</ol>
+<ol>TensorFlow and PyTorch supply machine learning and deep learning capabilities</ol>
